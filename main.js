@@ -88,7 +88,7 @@ cards.forEach(card => {
 });
 
 const typingElement = document.querySelector('.info-home h3'); 
-const words = ["Frontend Developer", "UI/UX Designer", "Web Enthusiast", "React Developer"];
+const words = ["Frontend Developer", "Ahli Bobok", "Suka Terlambat", "Talon Kikir"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
@@ -145,3 +145,4 @@ document.addEventListener("DOMContentLoaded", () => {
     mainPage.classList.add("visible");
   }, 4000);
 });
+
